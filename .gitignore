@@ -1,0 +1,10 @@
+target/
+build/
+.gradle/
+local.properties
+*.gguf
+*.apk
+*.aab
+data/
+.DS_Store
+.idea/
